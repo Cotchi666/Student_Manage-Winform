@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLiDiemSVModelStoreContainer" CdmEntityContainer="QuanLiDiemSV">
+    <EntitySetMapping Name="DiemSinhVien1">
+      <EntityTypeMapping TypeName="QuanLiDiemSVModel.DiemSinhVien1">
+        <MappingFragment StoreEntitySet="DiemSinhVien1">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="hoten" ColumnName="hoten" />
+          <ScalarProperty Name="diemtoan" ColumnName="diemtoan" />
+          <ScalarProperty Name="diemsinh" ColumnName="diemsinh" />
+          <ScalarProperty Name="diemly" ColumnName="diemly" />
+          <ScalarProperty Name="diemanh" ColumnName="diemanh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

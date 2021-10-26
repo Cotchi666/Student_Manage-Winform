@@ -1,0 +1,16 @@
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\bin\Debug\Luu xoa sua thong tin nhan vien.exe.config
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\bin\Debug\Luu xoa sua thong tin nhan vien.exe
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\bin\Debug\Luu xoa sua thong tin nhan vien.pdb
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu xoa sua thong tin nhan vien.csprojAssemblyReference.cache
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu_xoa_sua_thong_tin_nhan_vien.Form1.resources
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu_xoa_sua_thong_tin_nhan_vien.Properties.Resources.resources
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu xoa sua thong tin nhan vien.csproj.GenerateResource.cache
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu xoa sua thong tin nhan vien.csproj.CoreCompileInputs.cache
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu xoa sua thong tin nhan vien.exe
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu xoa sua thong tin nhan vien.pdb
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\bin\Debug\EntityFramework.dll
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\bin\Debug\EntityFramework.xml
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu xoa sua thong tin nhan vien.csproj.CopyComplete
+D:\Visual - C#\Luu xoa sua thong tin nhan vien\Luu xoa sua thong tin nhan vien\obj\Debug\Luu_xoa_sua_thong_tin_nhan_vien.Form2.resources
